@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+ <signos>
+
+ <signo>
+ <dataInicio>20/01</dataInicio>
+ <dataFim>18/02</dataFim>
+ <signoNome>Aquário</signoNome>
+ <elemento> Ar </elemento>
+ <regente> Saturno e Urano </regente>
+ <descricao>
+ "Inovação, originalidade e independência"
+ </descricao>
+ <imagem>public/img/aquario.jpg</imagem>
+ </signo>
+
+<signo>
+ <dataInicio>19/02</dataInicio>
+ <dataFim>20/03</dataFim>
+ <signoNome>Peixes</signoNome>
+ <elemento> Água </elemento>
+ <regente> Júpiter e Netuno </regente>
+ <descricao>
+ "Solidariedade, intuição e desapego."
+ </descricao>
+  <imagem>public/img/peixes.jpg</imagem>
+ </signo>
+
+<signo>
+ <dataInicio>19/04</dataInicio>
+ <dataFim>20/05</dataFim>
+ <signoNome>Touro</signoNome>
+ <elemento> Terra </elemento>
+ <regente> Vênus </regente>
+ <descricao>
+"Persistência, sensualidade e teimosia."
+ </descricao>
+  <imagem>public/img/touro.jpg</imagem>
+ </signo>
+ 
+ <signo>
+ <dataInicio>21/05</dataInicio>
+ <dataFim>20/06</dataFim>
+ <signoNome>Gêmeos</signoNome>
+ <elemento> Ar </elemento>
+ <regente> Mercúrio </regente>
+ <descricao>
+"Curiosidade, inteligência e liberdade"
+ </descricao>
+  <imagem>public/img/gemeos.jpg</imagem>
+ </signo>
+
+ <signo>
+ <dataInicio>21/06</dataInicio>
+ <dataFim>22/07</dataFim>
+ <signoNome>Câncer</signoNome>
+ <elemento> Água </elemento>
+ <regente> Lua </regente>
+ <descricao>
+"Sensibilidade, carinho e família"
+ </descricao>
+  <imagem>public/img/cancer.jpg</imagem>
+ </signo>
+
+ <signo>
+ <dataInicio>23/07</dataInicio>
+ <dataFim>22/08</dataFim>
+ <signoNome>Leão</signoNome>
+ <elemento> Fogo </elemento>
+ <regente> Sol </regente>
+ <descricao>
+"Criatividade, autoestima e nobreza"
+ </descricao>
+  <imagem>public/img/leao.jpg</imagem>
+ </signo>
+
+ <signo>
+ <dataInicio>23/08</dataInicio>
+ <dataFim>22/09</dataFim>
+ <signoNome>Virgem</signoNome>
+ <elemento> Terra </elemento>
+ <regente> Mercúrio </regente>
+ <descricao>
+"Objetividade, humanidade e organização"
+ </descricao>
+  <imagem>public/img/virgem.jpg</imagem>
+ </signo>
+
+ <signo>
+ <dataInicio>23/09</dataInicio>
+ <dataFim>22/10</dataFim>
+ <signoNome>Libra</signoNome>
+ <elemento> Ar </elemento>
+ <regente> Vênus </regente>
+ <descricao>
+"Vaidade, empatia e diplomacia."
+ </descricao>
+  <imagem>public/img/libra.jpg</imagem>
+ </signo>
+
+ <signo>
+ <dataInicio>23/10</dataInicio>
+ <dataFim>21/11</dataFim>
+ <signoNome>Escorpião</signoNome>
+ <elemento> Água </elemento>
+ <regente> Marte e Plutão </regente>
+ <descricao>
+"Intensidade, mistério e intuição."
+ </descricao>
+  <imagem>public/img/escorpiao.jpg</imagem>
+ </signo>
+
+ <signo>
+ <dataInicio>22/11</dataInicio>
+ <dataFim>21/12</dataFim>
+ <signoNome>Sagitário</signoNome>
+ <elemento> Fogo </elemento>
+ <regente> Júpiter </regente>
+ <descricao>
+"Otimismo, liberdade e movimento."
+ </descricao>
+  <imagem>public/img/sagitario.jpg</imagem>
+ </signo>
+
+  <signo>
+ <dataInicio>22/12</dataInicio>
+ <dataFim>19/01</dataFim>
+ <signoNome>Capricórnio</signoNome>
+ <elemento> Terra </elemento>
+ <regente> Saturno </regente>
+ <descricao>
+"Responsabilidade, ambição e persistência."
+ </descricao>
+  <imagem>public/img/capricornio.jpg</imagem>
+ </signo>
+
+ </signos>
